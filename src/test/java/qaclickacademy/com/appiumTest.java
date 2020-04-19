@@ -24,4 +24,12 @@ public class appiumTest {
 		System.out.println("iosApps");
 		System.out.println("iosApps");
 	}
+	
+	@Test
+	public void iosApps123()
+	{
+		System.out.println("iosApps1");
+		System.out.println("iosApps2");
+		System.out.println("iosApps3");
+	}
 }
